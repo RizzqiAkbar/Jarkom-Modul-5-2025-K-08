@@ -7,7 +7,7 @@ Anggota :
 |Adinda Cahya Pramesti|5027241117|
 
 # Topologi GNS3
-<img width="1117" height="749" alt="Screenshot 2025-11-30 185040" src="https://github.com/user-attachments/assets/8b1b3dbd-14cd-42f9-a3a9-19d15d2205e9" />
+<img width="1230" height="761" alt="Screenshot 2025-11-30 191517" src="https://github.com/user-attachments/assets/cac12195-8b94-4454-8933-cb5511e12247" />
 
 # Subnet Topologi
 
